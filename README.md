@@ -1,3 +1,3 @@
 # devise-doorkeep-demo
 
-* demo application for api authentication using devise and doorkeeper
+* example Rails 5.1 application for api authentication using devise and doorkeeper
